@@ -5,8 +5,8 @@
   <p>Building scalable apps, APIs, and production-ready systems</p>
 
   <p>
-    <a href="mailto:seifkane.codes@gmail.com">
-      <img src="https://img.shields.io/badge/Email-seifkane.codes@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:sabinemusk@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sabinemusk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Seifcodes45">
       <img src="https://img.shields.io/badge/GitHub-Seifcodes45-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
