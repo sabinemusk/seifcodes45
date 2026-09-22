@@ -8,7 +8,7 @@
     <a href="mailto:sabinemusk@gmail.com">
       <img src="https://img.shields.io/badge/Email-sabinemusk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/Seifcodes45">
+    <a href="https://github.com/sabinemusk">
       <img src="https://img.shields.io/badge/GitHub-Seifcodes45-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -94,7 +94,7 @@ Proficient ████████     GraphQL, Docker, Redis, Microservices, C
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="mailto:seifkane.codes@gmail.com">
+  <a href="mailto:sabinemusk@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
