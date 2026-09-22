@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Seif Kane</h1>
+  <h1>Sabine Musk</h1>
   <h3>Full Stack Engineer · 8+ Years · MERN · Python · Cloud</h3>
   <p>Building scalable apps, APIs, and production-ready systems</p>
 
@@ -27,18 +27,18 @@
 
 ## 👋 About Me
 
-I'm **Seif Kane** ([@Seifcodes45](https://github.com/Seifcodes45)), a **Full Stack Engineer** with **8+ years of experience** shipping production web applications, APIs, and cloud-backed systems.
+I'm Sabine Musk, a Full Stack Engineer with 8+ years of experience** shipping production web applications, APIs, and cloud-backed systems.
 
-I specialize in **MERN**, **Python** backends, and **modern frontend** development — with a strong focus on **clean architecture**, **performance**, and **reliable delivery**.
+I specialize in MERN, Python backends, and modern frontend development — with a strong focus on **clean architecture, performance, and reliable delivery.
 
 <img align="right" height="220" width="330" alt="coder gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### 💼 What I Do
 
-- 🛠 Build **full-stack** apps with **React**, **Next.js**, **Node.js**, and **Express**
-- 🐍 Develop **Python** services with **Django**, **FastAPI**, and **Flask**
-- 🔗 Design **REST** & **GraphQL** APIs for scalable products
-- ☁️ Deploy on **AWS**, **Docker**, and **CI/CD** pipelines
+- 🛠 Build full-stack apps with React, Next.js, Node.js, and Express
+- 🐍 Develop Python services with Django, FastAPI, and Flask
+- 🔗 Design REST & GraphQL APIs for scalable products
+- ☁️ Deploy on AWS, Docker, and CI/CD pipelines
 
 ---
 
@@ -85,9 +85,9 @@ Proficient ████████     GraphQL, Docker, Redis, Microservices, C
 
 ## 📌 What I'm Up To
 
-- 🔭 **Currently building**: Scalable full-stack applications & API platforms
-- 🌱 **Learning**: Advanced cloud architecture & serverless patterns
-- 💡 **Exploring**: AI-assisted development workflows
+- 🔭 Currently building: Scalable full-stack applications & API platforms
+- 🌱 Learning : Advanced cloud architecture & serverless patterns
+- 💡 Exploring : AI-assisted development workflows
 
 ---
 
